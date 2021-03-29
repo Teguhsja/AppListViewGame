@@ -1,4 +1,6 @@
 # AppListViewGame
-👌Nama : Teguh Priansyah Budin <br>
-✌Stambuk : F55118276 <br>
-👏Kelas : B
+<h2>Nama Kelompok :</h2><br>
+1. Teguh Priansyah Budin F55118276<br>
+2. Cahya DwiPutra Abuhasan F55118265<br>
+3. Fahrul Hidayat F55118273<br>
+4. Makruf Harani F55118269<br>
