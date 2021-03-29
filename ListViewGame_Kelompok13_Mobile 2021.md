@@ -1,5 +1,5 @@
 # AppListViewGame
-<h2>Nama Kelompok :</h2><br>
+<h2>Nama Kelompok :</h2>
 1. Teguh Priansyah Budin F55118276<br>
 2. Cahya DwiPutra Abuhasan F55118265<br>
 3. Fahrul Hidayat F55118273<br>
