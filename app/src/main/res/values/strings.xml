@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Daftar Game</string>
+    <string name="name_heroes">Nama Game</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>ASSASINS CREED ODYSSEY</item>
+        <item>ASSASINS CREED ORIGINS</item>
+        <item>ASSASINS CREED VALHALLA</item>
+        <item>CYBERPUNK 2077</item>
+        <item>FAR CRY PRIMAL</item>
+        <item>FAR CRY 5</item>
+        <item>GRAND THEFT AUTO V</item>
+        <item>HITMAN</item>
+        <item>RED DEAD REDEMPTION II</item>
+        <item>THE WITCHER 3 WILD HUNT</item>
+
+    </string-array>
+    <string-array name="data_description">
+    <item>
+      Assassins Creed Odyssey adalah video game role-playing yang dikembangkan oleh Ubisoft Quebec dan diterbitkan oleh Ubisoft . Ini adalah angsuran besar kesebelas, dan ke-21 secara keseluruhan, dalam seri Assassins Creed dan penerus Assassins Creed Origins 2017. </item>
+    <item>
+      Assassins Creed Origins adalah video game aksi-petualangan 2017 yang dikembangkan dan diterbitkan oleh Ubisoft. Ini adalah angsuran besar kesepuluh dalam seri Assassins Creed dan penerus Assassins Creed Syndicate 2015. </item>
+    <item>
+      Assassins Creed Valhalla adalah video game role-playing yang dikembangkan oleh Ubisoft Montreal dan diterbitkan oleh Ubisoft. Ini adalah angsuran besar kedua belas dan rilis kedua puluh dua dalam seri Assassins Creed, dan penerus Assassins Creed Odyssey 2018. </item>
+    <item>
+      Cyberpunk 2077 adalah sebuah permainan video action RPG yang dikembangkan dan dipublikasikan oleh CD Projekt. Berlatar di sebuah dunia terbuka bernama Night City, pemain berperan sebagai tentara bayaran bernama V dalam perspektif kamera orang pertama.</item>
+    <item>
+      Far Cry Primal adalah video game aksi-petualangan yang dikembangkan oleh Ubisoft Montreal dan diterbitkan oleh Ubisoft. Ini dirilis di seluruh dunia untuk PlayStation 4 dan Xbox One pada 23 Februari 2016, dan untuk Microsoft Windows pada 1 Maret 2016. Ini adalah game Far Cry pertama yang berlatarkan di zaman pramodern. Ini berputar di sekitar kisah Takkar, yang dimulai sebagai pemburu tak bersenjata dan naik menjadi pemimpin sebuah suku.</item>
+    <item>
+      Far Cry 5 adalah sebuah permainan video penembak orang pertama yang dikembangkan oleh Ubisoft Montreal dan Ubisoft Toronto dan dipublikasikan oleh Ubisoft untuk Microsoft Windows, PlayStation 4 dan Xbox One. Permainan tersebut adalah penerus yang berdiri sendiri dari permainan video tahun 2014 Far Cry 4, dan installment utama kelima dalam seri Far Cry. Permainan tersebut dirilis pada 27 Maret 2018.</item>
+    <item>
+      Grand Theft Auto V adalah permainan aksi-petualangan 2013 yang dikembangkan oleh Rockstar North dan diterbitkan oleh Rockstar Games. Ini adalah entri utama pertama dalam seri Grand Theft Auto sejak 2008 Grand Theft Auto IV. </item>
+    <item>
+      Hitman: Absolution adalah video game stealth 2012 yang dikembangkan oleh IO Interactive dan diterbitkan oleh anak perusahaan Square Enix di Eropa. Ini adalah angsuran kelima dalam seri Hitman dan sekuel dari Hitman: Blood Money tahun 2006. Sebelum rilis, para pengembang menyatakan bahwa Absolution akan lebih mudah untuk dimainkan dan lebih mudah diakses, dengan tetap mempertahankan aspek hardcore dari franchise tersebut. Game ini dirilis pada tanggal 20 November 2012 </item>
+    <item>
+      Red Dead Redemption 2 adalah permainan video aksi-penjelajahan tahun 2018 yang dikembangkan dan diterbitkan oleh Rockstar Games. Game ini adalah entri ketiga dalam seri Red Dead dan merupakan prekuel dari game Red Dead Redemption tahun 2010.</item>
+    <item>
+      The Witcher 3: Wild Hunt adalah game role-playing game yang dikembangkan dan diterbitkan oleh pengembang Polandia CD Projekt Red dan berdasarkan pada The Witcher seri novel fantasi yang ditulis oleh Andrzej Sapkowski. Ini adalah sekuel dari permainan tahun 2011 The Witcher 2: Assassins of Kings dan angsuran utama ketiga di seri video game The Witcher, yang dimainkan di dunia terbuka dengan file perspektif orang ketiga.</item>
+    </string-array>
+
+    <array name="data_photo">
+    <item>@drawable/odyssey</item>
+    <item>@drawable/origins</item>
+    <item>@drawable/valhalla</item>
+    <item>@drawable/cyberpunk</item>
+    <item>@drawable/primal</item>
+    <item>@drawable/farcry</item>
+    <item>@drawable/gtav</item>
+    <item>@drawable/hitman</item>
+    <item>@drawable/rdd</item>
+    <item>@drawable/witcher</item>
+    </array>
+
+
+
+</resources>
